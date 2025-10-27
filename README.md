@@ -67,14 +67,13 @@
 
     Complement these with visible service improvements funded by the reform (street upgrades, municipal works).
 
-## Treatment effects on merged data
-
-Across the six treatment arms, behavioral responses (measured by paid_share) were generally high and varied slightly across groups, while beliefs about government spending efficiency showed larger differences. Treatments emphasizing public goods, spending leakage, and elite capture raise expectations about how much of citizens’ taxes would be spent on preferred public services. However, these changes in beliefs did not translate equally into higher payment rates, suggesting a belief and behavior gap. Even when citizens doubted government spending efficiency, compliance remained strong, implying that behavioral responses are influenced by obligation or enforcement rather than confidence in institutions. This highlights the need for communication strategies that strengthen perceived fiscal accountability. Demonstrating transparent and visible use of property tax revenues could convert compliant behavior into lasting trust.
-
-
 * Phase 3 – Broader Compliance Reform (Q4):
 
     Strengthen collection mechanisms and close any assessment gaps.
 
     Communicate fair enforcement and administration of tax rates
+
+## Treatment effects on merged data
+
+Across the six treatment arms, behavioral responses (measured by paid_share) were generally high and varied slightly across groups, while beliefs about government spending efficiency showed larger differences. Treatments emphasizing public goods, spending leakage, and elite capture raise expectations about how much of citizens’ taxes would be spent on preferred public services. However, these changes in beliefs did not translate equally into higher payment rates, suggesting a belief and behavior gap. Even when citizens doubted government spending efficiency, compliance remained strong, implying that behavioral responses are influenced by obligation or enforcement rather than confidence in institutions. This highlights the need for communication strategies that strengthen perceived fiscal accountability. Demonstrating transparent and visible use of property tax revenues could convert compliant behavior into lasting trust.
     
